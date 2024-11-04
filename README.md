@@ -1,2 +1,2 @@
 # Portfolio
-A collection of data analysis projects
+My collection of data analysis projects
